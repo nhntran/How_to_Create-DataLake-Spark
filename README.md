@@ -3,6 +3,7 @@
 
 ### by Tran Nguyen
 
+#### A written blog post for this repository could be found [here](https://towardsdatascience.com/some-issues-when-building-an-aws-data-lake-using-spark-and-how-to-deal-with-these-issues-529ce246ba59).
 
 ## 1. INTRODUCTION
 
